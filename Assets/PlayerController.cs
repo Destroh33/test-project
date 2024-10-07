@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] int speed = 0;
     bool grounded = false;
     bool tely = false;
+    float time = 0;
    
     void Start()
     {
@@ -23,6 +24,7 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
         rb.velocity = new Vector2(speed*movementVector.x,rb.velocity.y);
+        time += Time.deltaTime;
     }
 
     void OnMove(InputValue value)
@@ -40,7 +42,6 @@ public class PlayerController : MonoBehaviour
     {
         if (tely)
         {
-            Debug.Log("tp");
             rb.transform.position = new Vector2(9.8f, -2.56f);
         }
     }
@@ -82,6 +83,8 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("TP"))
         {
             tely = true;
+        }else if (collision.gameObject.CompareTag("FinishLine")){
+            Debug.Log("Time: " + time + " seconds");
         }
     }
     void OnTriggerExit2D(Collider2D collision)
