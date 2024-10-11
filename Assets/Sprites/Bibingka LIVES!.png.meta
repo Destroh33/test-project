@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: f8ad53d819a96a745b6c6ee1fb7bed8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bibingka LIVES!_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223d280064e35144db0f8806f873b65c
+      internalID: -501506638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2911c559a01dbe42802a6e4730edc8c
+      internalID: -753926006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f415262757582cc4499231705ea3a7f9
+      internalID: -2102076921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62399726559bb1944b3fc1e48c7d2e34
+      internalID: 769454471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc339e06bba7cc24cae8b60ff4a147f7
+      internalID: 1924231655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6342366c71dd7a47bdecc133f74c48e
+      internalID: -1500391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8d36bb77ef0244b3b740170a2491f
+      internalID: -198186489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4324d2489e83845a1224883bd08d57
+      internalID: 1585331066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42bb1ff5f148b4892a488577d20164
+      internalID: 555191038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_9
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b59e72312117646b8a733cc899c00e
+      internalID: -647704270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47503fcd7ebb4c41af4c8d4c15703fa
+      internalID: -869091466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9a50df1491d024fa2e27f97661c560
+      internalID: -1741755170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65db5b154aae62408ab4579dbac8a00
+      internalID: -1432253679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b39c28d86824428de6a17fa966af0
+      internalID: 137764770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a058d19b6110b42b7a933348082543
+      internalID: 349554453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f076664d4525194f8eba6628bddbc9f
+      internalID: -1120241535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7332bfa5f10cc3141ac0509ef40b2443
+      internalID: 767667566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_17
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825ff07197f168e4da5e04521dff0842
+      internalID: 1832152705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c2984d0838450439ff970c3d334d2f
+      internalID: -133028652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0e4fba21f6fcc4194a38bff1a0b0b4
+      internalID: -1873317997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec73e17856f613b458d1c773cf45c90a
+      internalID: 404482742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25fd4e1c3ccb842bdf90d240ba5500
+      internalID: -685048113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35622a421501ee4ba84a51a854fd4d0
+      internalID: -692585321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bibingka LIVES!_23
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2.25
+        width: 36.666668
+        height: 38.75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629bf071e749f184595b09edb34cd8fd
+      internalID: 671880378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bibingka LIVES!_0: -501506638
+      Bibingka LIVES!_1: -753926006
+      Bibingka LIVES!_10: -869091466
+      Bibingka LIVES!_11: -1741755170
+      Bibingka LIVES!_12: -1432253679
+      Bibingka LIVES!_13: 137764770
+      Bibingka LIVES!_14: 349554453
+      Bibingka LIVES!_15: -1120241535
+      Bibingka LIVES!_16: 767667566
+      Bibingka LIVES!_17: 1832152705
+      Bibingka LIVES!_18: -133028652
+      Bibingka LIVES!_19: -1873317997
+      Bibingka LIVES!_2: -2102076921
+      Bibingka LIVES!_20: 404482742
+      Bibingka LIVES!_21: -685048113
+      Bibingka LIVES!_22: -692585321
+      Bibingka LIVES!_23: 671880378
+      Bibingka LIVES!_3: 769454471
+      Bibingka LIVES!_4: 1924231655
+      Bibingka LIVES!_5: -1500391134
+      Bibingka LIVES!_6: -198186489
+      Bibingka LIVES!_7: 1585331066
+      Bibingka LIVES!_8: 555191038
+      Bibingka LIVES!_9: -647704270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
