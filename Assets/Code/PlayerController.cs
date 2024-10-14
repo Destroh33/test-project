@@ -47,7 +47,7 @@ public class PlayerController : MonoBehaviour
     {
         if (tely)
         {
-            rb.transform.position = new Vector2(9.8f, -2.56f);
+            rb.transform.position = new Vector2(3.27f, 37.9f);
         }
     }
 
@@ -55,11 +55,11 @@ public class PlayerController : MonoBehaviour
     {
         if (movementVector.x == 1 && movementVector.y == 0)
         {
-            rb.AddForce(new Vector2(2500, 0));
+            rb.AddForce(new Vector2(5500, 0));
             ps.Play();
         }else if (movementVector.x == -1 && movementVector.y == 0)
         {
-            rb.AddForce(new Vector2(-2500, 0));
+            rb.AddForce(new Vector2(-5500, 0));
             ps.Play();
         }
         
@@ -71,7 +71,7 @@ public class PlayerController : MonoBehaviour
     {
         if (grounded)
         {
-            rb.AddForce(new Vector2(0, 320));
+            rb.AddForce(new Vector2(0, 600));
         }
     }
 
